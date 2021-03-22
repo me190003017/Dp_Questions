@@ -1,0 +1,11 @@
+{
+    "C_Cpp.errorSquiggles": "Disabled",
+    "files.associations": {
+        "*.txt": "plaintext",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "cstddef": "cpp",
+        "algorithm": "cpp",
+        "utility": "cpp"
+    }
+}
