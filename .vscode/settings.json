@@ -6,6 +6,8 @@
         "ostream": "cpp",
         "cstddef": "cpp",
         "algorithm": "cpp",
-        "utility": "cpp"
+        "utility": "cpp",
+        "xstring": "cpp",
+        "complex": "cpp"
     }
 }
