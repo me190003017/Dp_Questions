@@ -1,9 +1,10 @@
 #include<bits/stdc++.h>
 using namespace std;
-
+#define int long long int 
 void solve(){
     int n;
     cin>>n;
+    n=n-2;
     int dp[n+1];
     dp[0]=1;
     dp[1]=1;
@@ -17,7 +18,7 @@ void solve(){
     cout<<dp[n]<<endl;
 }
 
-int main(){
+int32_t main(){
     solve();
     return 0;
 }
