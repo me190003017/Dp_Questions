@@ -8,6 +8,7 @@
         "algorithm": "cpp",
         "utility": "cpp",
         "xstring": "cpp",
-        "complex": "cpp"
+        "complex": "cpp",
+        "vector": "cpp"
     }
 }
